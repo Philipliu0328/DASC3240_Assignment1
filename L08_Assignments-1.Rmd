@@ -139,7 +139,7 @@ age_group<-factor(data2$AGE_MEDIAN)
 #Tranpose the data 
 d_tree_rel_t <- t(d_tree_rel)
 
-# Process PCA
+
 # Do PCA
 pca <- prcomp(d_tree_rel_t, center = FALSE, scale = FALSE)
 
