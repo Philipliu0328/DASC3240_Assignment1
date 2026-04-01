@@ -1,3 +1,7 @@
+```{r}
+
+```
+
 ---
 title: Static plots - Assignments
 output: html_document
@@ -186,4 +190,9 @@ nmds$points %>% as.data.frame %>%
       geom_point(aes(color = age_group)) +
       
       labs(title="NMDS of Dominant Tree Species Composition",x="Axis 1" , y="Axis 2")
+```
+
+```{r}
+a<- "Hello world "
+a
 ```
