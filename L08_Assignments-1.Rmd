@@ -11,9 +11,9 @@ output: html_document
 
 # 1. Student ID and Name
 
-## [Student ID]{style="color:red"}: XXXXXXXXX
+## [Student ID]{style="color:red"}: 21065572
 
-## [Name]{style="color:red"}: XXXXXXXX
+## [Name]{style="color:red"}: Liu Kam Chiu 
 
 ## 2. Generative AI declaration
 
