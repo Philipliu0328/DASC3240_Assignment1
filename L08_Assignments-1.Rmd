@@ -13,7 +13,7 @@ output: html_document
 
 ## [Student ID]{style="color:red"}: 21065572
 
-## [Name]{style="color:red"}: Liu Kam Chiu 
+## [Name]{style="color:red"}: Liu Kam Chiu
 
 ## 2. Generative AI declaration
 
